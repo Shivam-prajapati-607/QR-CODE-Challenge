@@ -7,7 +7,7 @@ A solution to the Frontend Mentor QR Code Component challenge.
 - CSS3
 
 ## Live Demo
-
+https://shivam-prajapati-607.github.io/QR-CODE-Challenge/
 
 ## Author
 Shivam Prajapati
